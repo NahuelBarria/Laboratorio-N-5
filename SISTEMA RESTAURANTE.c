@@ -13,3 +13,6 @@ int cantidad; // Cantidad solicitada
 float total; // Precio total del pedido
 int activo; // 1 = activo, 0 = completado
 };
+sssssss
+asdasd
+asdasd
