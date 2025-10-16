@@ -1,3 +1,10 @@
+#include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
+#include <string.h>
+#include <stdlib.h>
+#include <stdbool.h>
+
 struct Plato {
 int id; // Identificador único del plato
 char nombre[MAX_TEXTO]; // Nombre del plato
@@ -13,6 +20,8 @@ int cantidad; // Cantidad solicitada
 float total; // Precio total del pedido
 int activo; // 1 = activo, 0 = completado
 };
-sssssss
-asdasd
-asdasd
+
+int main ()
+{
+    
+}
